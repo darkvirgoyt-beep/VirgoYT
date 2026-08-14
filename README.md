@@ -1,92 +1,63 @@
-👑 VirgoYT707 — Prince
+🚀 VirgoYT | Android Kernel Developer
 
 <p align="center">
-  <b>Android Kernel Developer • Linux Enthusiast • Open Source Creator</b>
+  <b>Open Source Developer • Linux Enthusiast • Android Performance Engineer</b>
 </p>---
 
-🚀 About Me
+👋 About Me
 
-Hi, I'm Prince (VirgoYT707) — a developer focused on building and experimenting with:
+Hi, I'm VirgoYT.
 
-- ⚡ Custom Android kernels
-- 🎮 Gaming performance optimization
-- 🐧 Linux & Termux environments
-- 🤖 AI-powered tools and automation
-- 📱 Android system development
+I create and explore projects focused on:
 
-I enjoy exploring low-level Android technologies, improving device performance, and creating open-source projects.
+- 📱 Android Kernel Development
+- ⚡ Gaming Performance Optimization
+- 🐧 Linux Systems & Termux
+- 🔧 Android Customization Tools
+- 🤖 AI & Automation Projects
+- 🌐 Developer Tools
 
 ---
 
 🔥 Featured Projects
 
-🌫️ FogOS Kernel
+🌫️ FogOS Gaming Kernel
 
-A custom Android gaming kernel project focused on:
+Custom Android kernel development focused on:
 
-- CPU & GPU performance tuning
-- Scheduler optimization
-- Touch responsiveness improvements
-- Memory and I/O improvements
+- Performance tuning
+- CPU/GPU optimization
 - Gaming-focused configurations
-
-🛠 Android Optimization Tools
-
-Projects involving:
-
-- Root-based customization
-- Performance scripts
-- System optimization
-- Device tuning experiments
-
-🤖 AI & Automation Projects
-
-Exploring:
-
-- AI agents
-- Developer automation
-- Linux-based AI environments
-- Custom tools and workflows
+- Touch responsiveness improvements
+- System-level enhancements
 
 ---
 
-💻 Tech Stack
-
-Languages
+🛠️ Technologies
 
 - C / C++
 - Python
+- Kotlin
 - Shell Script
-- JavaScript
-
-Technologies
-
-- Android Kernel Development
 - Linux
-- Git & GitHub
-- Termux
 - Android Internals
-- Open Source Development
+- Git & GitHub
+- AI Development
 
 ---
 
-🎯 Goals
+🎯 Mission
 
-- Build powerful Android performance solutions
-- Learn deeper Linux kernel development
-- Create useful open-source tools
-- Explore AI and automation technologies
+Building innovative open-source projects and learning deeper technologies in:
 
----
-
-🌐 Connect
-
-YouTube: VIRGOYT707
-
-GitHub: Building open-source projects 🚀
+Android • Linux • Kernel Development • AI
 
 ---
+
+🌐 VirgoYT
+
+Creating. Optimizing. Experimenting.
 
 <p align="center">
-  ⚡ Build • Optimize • Create ⚡
+⚡ VirgoYT ⚡
 </p>
