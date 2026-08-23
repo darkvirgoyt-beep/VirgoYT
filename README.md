@@ -49,7 +49,7 @@ Built with gaming workloads in mind, including:
 - 🎮 Competitive mobile gaming
 
 ---
-Contributors: ArsieYT707 
+Contributors: ArsieYT
 
 ⚡ Features
 
