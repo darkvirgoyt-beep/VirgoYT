@@ -214,3 +214,41 @@ Flashing custom software can cause boot issues or data loss. Always create backu
 <p align="center">
 Built with ❤️ by Prince Raj · VirgoYT707
 </p>
+
+---
+
+## 👨‍💻 About VirgoYT
+
+I’m **VirgoYT**, an independent Android systems developer and open-source creator based in Jharkhand, India. I’m also a student developer focused on learning through practical projects, experimentation, and public documentation.
+
+My work covers Android kernel development, Linux systems and developer tooling, Android device recovery, Kotlin and C++ development, AI-powered developer workflows, cloud infrastructure, Docker-based services, and Android game prototypes.
+
+### 🚀 Current Public Projects
+
+- [VirgoYT-AI](https://github.com/darkvirgoyt-beep/VirgoYT-AI) — an autonomous AI developer concept.
+- [FogOS-PulseControl](https://github.com/darkvirgoyt-beep/FogOS-PulseControl) — Kotlin Android kernel profile controller.
+- [FogOS-Manager](https://github.com/darkvirgoyt-beep/FogOS-Manager) — Android app for controlling the FogOS kernel.
+- [VirgoCloud](https://github.com/darkvirgoyt-beep/VirgoCloud) — Docker-based hosting control plane and node agent.
+- [Android Anime Forest Survival RPG](https://github.com/darkvirgoyt-beep/anime-forest-survival-rpg-android) — Kotlin/C++17/OpenGL ES 3 game prototype.
+
+### 🔧 Build Philosophy
+
+> **BUILD → TEST → DOCUMENT → SHIP**
+
+I turn experiments into practical, understandable, and reusable open-source projects.
+
+<h2>🔗 Connect with VirgoYT707</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/virgo-yt-718b36429/"><img src="https://img.shields.io/badge/LINKEDIN-Virgo%20YT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn — Virgo YT" /></a>
+  <a href="https://x.com/VirgoYT707"><img src="https://img.shields.io/badge/X%20%2F%20TWITTER-VirgoYT707-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter — VirgoYT707" /></a>
+  <a href="https://www.youtube.com/@VirgoYT707"><img src="https://img.shields.io/badge/YOUTUBE-VirgoYT707-FB0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube — VirgoYT707" /></a>
+  <a href="https://www.instagram.com/prince.x._shade"><img src="https://img.shields.io/badge/INSTAGRAM-prince.x._shade-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram — prince.x._shade" /></a>
+  <a href="https://t.me/YouTubevirgo"><img src="https://img.shields.io/badge/TELEGRAM-YouTubevirgo-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram — YouTubevirgo" /></a>
+</p>
+<p align="center"><sub>Follow the builds · read the code · watch the experiments · join the community</sub></p>
+
+**GitHub profile:** https://github.com/darkvirgoyt-beep  
+**LinkedIn:** https://www.linkedin.com/in/virgo-yt-718b36429/  
+**X/Twitter:** https://x.com/VirgoYT707
+
+---
