@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/darkvirgoyt-beep/VirgoYT-AI"><img src="./assets/virgoyt-cloud-ai-showcase.gif" alt="Animated VirgoYT Cloud AI showcase" width="100%" /></a>
+  <a href="https://github.com/darkvirgoyt-beep/VirgoYT-AI"><img src="./assets/virgoyt-anime-showcase.gif" alt="Animated VirgoYT anime showcase" width="100%" /></a>
 </p>
 
-<p align="center"><a href="https://github.com/darkvirgoyt-beep/VirgoYT-AI"><code>▶ WATCH THE VIRGOYT CLOUD AI SHOWCASE</code></a></p>A custom Android Linux kernel project built for Motorola G45 5G / Motorola G34 5G (SM6375 Holi Platform) with focus on gaming performance, responsiveness, stability, and system optimization.
+<p align="center"><a href="https://github.com/darkvirgoyt-beep/VirgoYT-AI"><code>▶ ENTER THE VIRGOYT ANIME SYSTEMS LAB</code></a></p>A custom Android Linux kernel project built for Motorola G45 5G / Motorola G34 5G (SM6375 Holi Platform) with focus on gaming performance, responsiveness, stability, and system optimization.
 
 ---
 
